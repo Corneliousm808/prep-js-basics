@@ -10,7 +10,9 @@
 * It should be a String.
 **/
 
-
+var firstName = "Cornelious";
+var lastName  = "Mooring";
+var birthPlace  = "Honolulu";
 
 /**
 * #2
@@ -22,7 +24,9 @@
 * Their values should be a Number
 **/
 
-
+var favoriteNumber  = 16;
+var currentYear = 2016;
+var thatOnePrinceSong = 1999;
 
 /**
 * #3
@@ -34,7 +38,10 @@
 * Their values should be a Boolean
 **/
 
-
+var isDaytime = true
+var isLeftHanded  = false
+var inHawaii  = true
+var isHappyCoding = true
 
 /**
 * #4
@@ -45,7 +52,8 @@
 * Their values should be a Null value
 **/
 
-
+var enrolledAtDevLeague = 
+var completedFridayPrep = 
 
 /**
 * #5a
@@ -56,7 +64,7 @@
 * which can be found along the west coast of The United States.
 **/
 
-
+var westCoast = [California, Oregon, Washington, Nevada]
 
 /**
 * #5b
@@ -67,7 +75,7 @@
 * Have at least ten even values in this array.
 **/
 
-
+var evenNumbers = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20]
 
 /**
 * #6a Arithmetic
@@ -80,7 +88,10 @@
 * Extend this behavior to include subtraction, multiplication and division.
 */
 
-
+var sumOfNumbers = 1+2;
+var diffrenceOfNumbers = 2-4;
+var productOfNumbers = 2
+var 
 
 
 /**
@@ -99,7 +110,7 @@
 *   operator(==) vs triple comparison operator(===).
 */
 
-
+var isEqual = 
 
 /**
 * #6c Assignments
